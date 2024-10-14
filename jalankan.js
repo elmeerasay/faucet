@@ -3,7 +3,7 @@ const { exec } = require('child_process');
 // Daftar file JavaScript dengan path relatif
 const jsFiles = [
     './claimfaucet.js',
-    './swap.js',
+    './kodebaru.js',
     './autogeneratewallet.js',
     './satukan_all_token.js'
 ];
